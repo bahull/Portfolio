@@ -330,6 +330,10 @@ FOLLOW BUTTON
   width: 40vw;
   height: 180px;
 }
+.flexed {
+  display: flex;
+  justify-content: center;
+}
 
 @media (max-width: 767px) {
   .shots img {
